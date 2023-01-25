@@ -8,15 +8,15 @@ The keyword extraction methods can be classified based on different approaches.
 Many methods can be included in multiple categories. The categories and the methods included in each category are given below. I have tried to make the list as comprehensive as possible and is continuously updated. 
 ## Keyword Extraction Methods
 ### Statistics-based Methods
-- Term Frequency - Inverse Document Frequency (TF-IDF)
+- [Term Frequency - Inverse Document Frequency (TF-IDF)](https://github.com/rohitgarud/NLP-Keyword-extraction/blob/main/TF_IDF.ipynb)
 - KP-Minor
 - KeyCluster
-- Yet Another Keyword Extractor (YAKE)
+- [Yet Another Keyword Extractor (YAKE)](https://github.com/rohitgarud/NLP-Keyword-extraction/blob/main/YAKE.ipynb)
 
 ### Graph-based (Ranking) Methods 
-- TextRank
+- [TextRank](https://github.com/rohitgarud/NLP-Keyword-extraction/blob/main/TextRank.ipynb)
 - SingleRank
-- Rapid Automatic Keyword Extraction (RAKE)
+- [Rapid Automatic Keyword Extraction (RAKE)](https://github.com/rohitgarud/NLP-Keyword-extraction/blob/main/RAKE.ipynb)
 - PositionRank (PR)
 #### Citation Network-based Methods
 - ExpandRank
